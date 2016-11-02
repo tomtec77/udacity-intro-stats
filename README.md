@@ -5,7 +5,7 @@ Material from the Udacity Intro to Statistics course
 ## Anaconda environment
 
 ``` bash
-conda create --name introstats numpy matplotlib jupyter
+conda create --name introstats numpy scipy matplotlib jupyter
 ```
 
 ## Wrapper script for plots
